@@ -1,0 +1,102 @@
+/* Ironhills Landscaping - static sample stylesheet */
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;color:#212121;background:#fff;line-height:1.4}
+img,video{max-width:100%;display:block}
+.blk img,.blk video{width:100%;height:auto}
+a{color:inherit}
+h1,h2,h3,h4,h5,h6,p{margin:0}
+ul,ol{margin:0;padding-left:1.4em}
+.skip{position:absolute;left:-999px;top:0;background:#fff;padding:8px;z-index:100}
+.skip:focus{left:8px}
+
+/* header */
+.site-header{background:#2f2e2e;color:#fff;position:sticky;top:0;z-index:50}
+.hdr-inner{max-width:1280px;margin:0 auto;display:flex;align-items:center;gap:18px;padding:10px 40px;min-height:84px}
+.logo img{width:130px;height:auto}
+.site-nav{flex:1}
+.site-nav>ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;justify-content:center;gap:2px 6px}
+.site-nav li{position:relative;display:flex;align-items:center}
+.site-nav a{color:#fff;text-decoration:none;font-size:13px;letter-spacing:.08em;padding:10px 8px;display:block;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif}
+.site-nav a:hover,.site-nav a:focus{color:#d9cbb9}
+.sub-toggle{background:none;border:0;color:#fff;cursor:pointer;padding:4px;font-size:11px}
+.site-nav .sub{display:none;position:absolute;top:100%;left:0;min-width:240px;list-style:none;margin:0;padding:6px 0;background:#2f2e2e;box-shadow:0 8px 20px rgba(0,0,0,.25)}
+.site-nav .sub a{letter-spacing:.02em;padding:8px 16px}
+.site-nav li.has-sub:hover>.sub,.site-nav li.has-sub:focus-within>.sub,.site-nav li.open>.sub{display:block}
+.hdr-right{display:flex;align-items:center;gap:22px}
+.social{display:flex;gap:8px}
+.social img{width:25px;height:25px}
+.phone{color:#fff;text-decoration:none;font-size:14px;white-space:nowrap}
+.nav-toggle{display:none;background:none;border:0;cursor:pointer;padding:8px;margin-left:auto}
+.nav-toggle span{display:block;width:26px;height:2px;background:#fff;margin:5px 0}
+
+/* sections and flow layout rebuilt from the Wix page geometry */
+.sec{position:relative;overflow:hidden;min-height:var(--mh)}
+.sec>.wrap{position:relative;z-index:1;max-width:1280px;margin:0 auto}
+.bgvideo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0;max-width:none}
+.overlay{position:absolute;inset:0;z-index:0}
+.row{display:flex;align-items:flex-start}
+.col{flex:0 0 auto}
+.blk{position:relative}
+.blk-text a{color:inherit}
+.blk-text img{display:inline-block;width:auto;vertical-align:middle}
+.box{min-height:var(--mh);overflow:hidden}
+.btn{display:flex;align-items:center;justify-content:center;text-align:center;text-decoration:none;padding:8px 16px;cursor:pointer;transition:filter .2s}
+.btn:hover{filter:brightness(1.12)}
+.embed{position:relative;width:100%}
+.embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.embed.jt iframe,.embed.map iframe{position:static;height:100%}
+video{background:#000}
+
+/* rebuilt (static) Wix forms */
+.wixform{padding:24px;display:block}
+.wixform label{display:block;font-size:14px;margin:12px 0 4px}
+.wixform input[type=text],.wixform input[type=email],.wixform input[type=tel],.wixform input:not([type]),.wixform textarea,.wixform select{width:100%;padding:10px;border:1px solid #9a9a9a;background:#fff;font:inherit}
+.wixform textarea{min-height:90px}
+.wixform input[type=checkbox],.wixform input[type=radio]{margin-right:6px}
+.wixform fieldset{border:0;padding:0;margin:12px 0}
+.wixform legend{font-size:14px;margin-bottom:6px}
+.wixform>div>div{margin:4px 0}
+.wixform .form-submit{margin-top:16px;background:#2f2e2e;color:#fff;max-width:240px}
+
+/* footer */
+.site-footer{min-height:0}
+
+/* tablets and phones: collapse columns into a single stack */
+@media (max-width:900px){
+  .hdr-inner{flex-wrap:wrap;padding:10px 18px}
+  .nav-toggle{display:block}
+  .site-nav{display:none;flex-basis:100%;order:5}
+  .site-nav.open{display:block}
+  .site-nav>ul{flex-direction:column;align-items:stretch}
+  .site-nav li{flex-wrap:wrap}
+  .site-nav li>a{flex:1}
+  .site-nav .sub{position:static;box-shadow:none;width:100%;padding-left:14px}
+  .site-nav li.has-sub:hover>.sub{display:none}
+  .site-nav li.open>.sub{display:block}
+  .hdr-right{gap:12px}
+}
+@media (max-width:760px){
+  .sec{min-height:0}
+  .sec>.wrap{padding:24px 18px !important}
+  .sec.has-media{min-height:420px}
+  .sec.has-media>.wrap{padding-top:60px !important;padding-bottom:60px !important}
+  .row{flex-direction:column}
+  .col,.blk{width:100% !important;margin-left:0 !important}
+  .row,.grp,.stack{margin-top:12px !important}
+  .blk{margin-top:12px !important}
+  .box{min-height:0;padding:12px}
+  .embed.jt{height:auto !important}
+  .embed.jt iframe{height:1400px}
+  .hdr-right .social{display:none}
+}
+.clamp{display:-webkit-box;-webkit-box-orient:vertical;overflow:hidden}
+.clamp>div{display:inline}
+.bgimg{position:absolute;inset:0;background-size:cover;background-position:center;z-index:0}
+.wixform label:has(>input[type=checkbox]),.wixform label:has(>input[type=radio]){display:flex;align-items:center;gap:8px;margin:6px 0}
+.wixform label>div{display:inline}
+.wixform input[type=checkbox],.wixform input[type=radio]{width:auto;margin:0}
+.carousel{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:8px}
+.carousel .slide{scroll-snap-align:start}
+@media (max-width:760px){.carousel .slide{flex-basis:88% !important}}
+.blk a{text-decoration:none}

@@ -1,0 +1,5 @@
+tools/build/pages/
+tools/build/raw/
+tools/build/shots/
+tools/build/build-report.json
+__pycache__/

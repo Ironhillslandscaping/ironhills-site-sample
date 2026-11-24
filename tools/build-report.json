@@ -1,0 +1,389 @@
+{
+ "unmapped_internal": [],
+ "external": [
+  "https://app.jobtread.com/web-forms/22TZwEri3zCHZats7xu2V7zyfW2dfmjk25",
+  "https://calendly.com/ironhillslandscaping/30min",
+  "https://calendly.com/ironhillslandscaping/career-application",
+  "https://calendly.com/ironhillslandscaping/design-discovery",
+  "https://datacommons.org/explore#q=orem%20utah%20population",
+  "https://datacommons.org/explore#q=provo+utah+population&client=ui_query",
+  "https://datacommons.org/explore#q=vineyard+utah+population&client=ui_query",
+  "https://en.wikipedia.org/wiki/Lindon,_Utah",
+  "https://en.wikipedia.org/wiki/Orem,_Utah",
+  "https://en.wikipedia.org/wiki/Pleasant_Grove,_Utah",
+  "https://en.wikipedia.org/wiki/Provo,_Utah",
+  "https://en.wikipedia.org/wiki/Vineyard,_Utah",
+  "https://www.dzconcretedesigns.com/#Contact",
+  "https://www.facebook.com/ironhillslandscaping",
+  "https://www.facebook.com/ironhillslandscaping/",
+  "https://www.google.com/maps",
+  "https://www.google.com/maps/contrib/103138661437326959348",
+  "https://www.google.com/maps/dir//''/@40.2845362,-111.7678171,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x0:0xa49285daa9eb5d8d!2m2!",
+  "https://www.google.com/maps/place/IRONHILLS+Landscaping/@40.315096,-111.5359124,9z/data=!3m1!4b1!4m6!3m5!1s0x2c8a6949390",
+  "https://www.hfsfinancial.net/promo/66b0e651a69a8f4cb4b8260a",
+  "https://www.instagram.com/ironhillslandscaping/",
+  "https://www.tiktok.com/@ironhillslandscaping",
+  "https://www.youtube.com/@ironhillslandscaping"
+ ],
+ "iframes": [
+  [
+   "contact",
+   "JobTread web form (adf499_c807d5696070d3fb616b307087730d6c.html)",
+   "kept: same JobTread embed HTML copied to assets/embeds/ and loaded in an iframe"
+  ],
+  [
+   "design",
+   "YouTube video PjwUBdGf_ds",
+   "kept (YouTube embed; Wix slideshow rebuilt as a scroll strip)"
+  ],
+  [
+   "design",
+   "YouTube video n-zA_iS-2kM",
+   "kept (YouTube embed; Wix slideshow rebuilt as a scroll strip)"
+  ],
+  [
+   "design",
+   "YouTube video 40pRqAELaxQ",
+   "kept (YouTube embed; Wix slideshow rebuilt as a scroll strip)"
+  ],
+  [
+   "design",
+   "YouTube video -oemOEoFcwQ",
+   "kept (YouTube embed; Wix slideshow rebuilt as a scroll strip)"
+  ],
+  [
+   "design",
+   "YouTube video VtbCkCZ4RpY",
+   "kept (YouTube embed; Wix slideshow rebuilt as a scroll strip)"
+  ],
+  [
+   "design",
+   "YouTube video gbcw_Nrx8Aw",
+   "kept (YouTube embed; Wix slideshow rebuilt as a scroll strip)"
+  ],
+  [
+   "design",
+   "YouTube video WJIZBn3JxW0",
+   "kept (YouTube embed; Wix slideshow rebuilt as a scroll strip)"
+  ],
+  [
+   "design",
+   "YouTube video AfnUya4aRME",
+   "kept (YouTube embed; Wix slideshow rebuilt as a scroll strip)"
+  ],
+  [
+   "design",
+   "YouTube video 4Vof7tD4e3I",
+   "kept (YouTube embed)"
+  ],
+  [
+   "design",
+   "JobTread web form (adf499_1a370ef87ba97f36e6eea121b41a99ad.html)",
+   "kept: same JobTread embed HTML copied to assets/embeds/ and loaded in an iframe"
+  ],
+  [
+   "home",
+   "YouTube video bQa3g5WYZEA",
+   "kept (YouTube embed)"
+  ],
+  [
+   "home",
+   "YouTube video XmgnOAYJPm4",
+   "kept (YouTube embed)"
+  ],
+  [
+   "home",
+   "YouTube video _LpeIRxlY80",
+   "kept (YouTube embed)"
+  ],
+  [
+   "locations",
+   "Google Map (Wix HTML embed)",
+   "kept (Google Maps iframe inlined)"
+  ],
+  [
+   "locations/american-fork",
+   "Google Map (Wix HTML embed)",
+   "kept (Google Maps iframe inlined)"
+  ],
+  [
+   "locations/lehi",
+   "Google Map (Wix HTML embed)",
+   "kept (Google Maps iframe inlined)"
+  ],
+  [
+   "locations/lindon",
+   "Google Map (Wix HTML embed)",
+   "kept (Google Maps iframe inlined)"
+  ],
+  [
+   "locations/mapleton",
+   "Google Map (Wix HTML embed)",
+   "kept (Google Maps iframe inlined)"
+  ],
+  [
+   "locations/orem",
+   "Google Map (Wix HTML embed)",
+   "kept (Google Maps iframe inlined)"
+  ],
+  [
+   "locations/pleasant-grove",
+   "Google Map (Wix HTML embed)",
+   "kept (Google Maps iframe inlined)"
+  ],
+  [
+   "locations/provo",
+   "Google Map (Wix HTML embed)",
+   "kept (Google Maps iframe inlined)"
+  ],
+  [
+   "locations/salem",
+   "Google Map (Wix HTML embed)",
+   "kept (Google Maps iframe inlined)"
+  ],
+  [
+   "locations/saratoga-springs",
+   "Google Map (Wix HTML embed)",
+   "kept (Google Maps iframe inlined)"
+  ],
+  [
+   "locations/spanish-fork",
+   "Google Map (Wix HTML embed)",
+   "kept (Google Maps iframe inlined)"
+  ],
+  [
+   "locations/vineyard",
+   "Google Map (Wix HTML embed)",
+   "kept (Google Maps iframe inlined)"
+  ]
+ ],
+ "forms": [
+  [
+   "home",
+   "Wix newsletter signup",
+   "non-functional on static hosting; button re-pointed to the Contact page (live JobTread request form)"
+  ],
+  [
+   "landscaping-design",
+   "Wix newsletter signup",
+   "non-functional on static hosting; button re-pointed to the Contact page (live JobTread request form)"
+  ],
+  [
+   "locations/american-fork",
+   "Wix Forms contact form",
+   "non-functional on static hosting; button re-pointed to the Contact page (live JobTread request form)"
+  ],
+  [
+   "locations/lehi",
+   "Wix Forms contact form",
+   "non-functional on static hosting; button re-pointed to the Contact page (live JobTread request form)"
+  ],
+  [
+   "locations/lindon",
+   "Wix Forms contact form",
+   "non-functional on static hosting; button re-pointed to the Contact page (live JobTread request form)"
+  ],
+  [
+   "locations/mapleton",
+   "Wix Forms contact form",
+   "non-functional on static hosting; button re-pointed to the Contact page (live JobTread request form)"
+  ],
+  [
+   "locations/orem",
+   "Wix Forms contact form",
+   "non-functional on static hosting; button re-pointed to the Contact page (live JobTread request form)"
+  ],
+  [
+   "locations/pleasant-grove",
+   "Wix Forms contact form",
+   "non-functional on static hosting; button re-pointed to the Contact page (live JobTread request form)"
+  ],
+  [
+   "locations/provo",
+   "Wix Forms contact form",
+   "non-functional on static hosting; button re-pointed to the Contact page (live JobTread request form)"
+  ],
+  [
+   "locations/salem",
+   "Wix Forms contact form",
+   "non-functional on static hosting; button re-pointed to the Contact page (live JobTread request form)"
+  ],
+  [
+   "locations/saratoga-springs",
+   "Wix Forms contact form",
+   "non-functional on static hosting; button re-pointed to the Contact page (live JobTread request form)"
+  ],
+  [
+   "locations/spanish-fork",
+   "Wix Forms contact form",
+   "non-functional on static hosting; button re-pointed to the Contact page (live JobTread request form)"
+  ],
+  [
+   "locations/vineyard",
+   "Wix Forms contact form",
+   "non-functional on static hosting; button re-pointed to the Contact page (live JobTread request form)"
+  ],
+  [
+   "outdoor-lighting",
+   "Wix newsletter signup",
+   "non-functional on static hosting; button re-pointed to the Contact page (live JobTread request form)"
+  ]
+ ],
+ "videos": [
+  [
+   "construction",
+   "assets/video/adf499_d7765c090e574344b29a48c6cbd20cd3.mp4 (section background)"
+  ],
+  [
+   "home",
+   "assets/video/adf499_413bfa829ff042858d69a03a8966af9d.mp4 (section background)"
+  ],
+  [
+   "home",
+   "assets/video/adf499_3512d41afb52402087b9af5e845d4314.mp4"
+  ],
+  [
+   "irrigation",
+   "assets/video/adf499_8cafda2f2da145d7aa42eea76a26d0d5.mp4 (section background)"
+  ],
+  [
+   "landscaping-design",
+   "assets/video/adf499_cc563178a67e4fbe88735947dd9909a0.mp4 (section background)"
+  ],
+  [
+   "locations",
+   "assets/video/adf499_3512d41afb52402087b9af5e845d4314.mp4"
+  ],
+  [
+   "locations/american-fork",
+   "assets/video/adf499_3512d41afb52402087b9af5e845d4314.mp4"
+  ],
+  [
+   "locations/lehi",
+   "assets/video/adf499_3512d41afb52402087b9af5e845d4314.mp4"
+  ],
+  [
+   "locations/lindon",
+   "assets/video/adf499_3512d41afb52402087b9af5e845d4314.mp4"
+  ],
+  [
+   "locations/mapleton",
+   "assets/video/adf499_3512d41afb52402087b9af5e845d4314.mp4"
+  ],
+  [
+   "locations/orem",
+   "assets/video/adf499_3512d41afb52402087b9af5e845d4314.mp4"
+  ],
+  [
+   "locations/pleasant-grove",
+   "assets/video/adf499_3512d41afb52402087b9af5e845d4314.mp4"
+  ],
+  [
+   "locations/provo",
+   "assets/video/adf499_3512d41afb52402087b9af5e845d4314.mp4"
+  ],
+  [
+   "locations/salem",
+   "assets/video/adf499_3512d41afb52402087b9af5e845d4314.mp4"
+  ],
+  [
+   "locations/saratoga-springs",
+   "assets/video/adf499_3512d41afb52402087b9af5e845d4314.mp4"
+  ],
+  [
+   "locations/spanish-fork",
+   "assets/video/adf499_3512d41afb52402087b9af5e845d4314.mp4"
+  ],
+  [
+   "locations/vineyard",
+   "assets/video/adf499_3512d41afb52402087b9af5e845d4314.mp4"
+  ],
+  [
+   "outdoor-kitchens",
+   "assets/video/adf499_817c7b5d928d448a9953f3aff696f712.mp4"
+  ],
+  [
+   "plants-trees-and-gardens",
+   "assets/video/adf499_51093c7a24fc497d953eb2b7c7ea2141.mp4 (section background)"
+  ],
+  [
+   "repairs-and-renovations",
+   "assets/video/adf499_971aa663452c44288587bb26414b173a.mp4 (section background)"
+  ],
+  [
+   "retaining-walls",
+   "assets/video/adf499_6cfeef594a6640d982c1e6f5fb6cba3e.mp4 (section background)"
+  ]
+ ],
+ "notes": [
+  "comp-lskw6cic3: dropped off-screen shape"
+ ],
+ "pages": [
+  "",
+  "artificial-turf",
+  "blog",
+  "blog/categories/transformations",
+  "book-online",
+  "careers",
+  "construction",
+  "contact",
+  "design",
+  "gallery",
+  "hardscaping",
+  "irrigation",
+  "landscaping-design",
+  "locations",
+  "locations/american-fork",
+  "locations/lehi",
+  "locations/lindon",
+  "locations/mapleton",
+  "locations/orem",
+  "locations/pleasant-grove",
+  "locations/provo",
+  "locations/salem",
+  "locations/saratoga-springs",
+  "locations/spanish-fork",
+  "locations/vineyard",
+  "outdoor-kitchens",
+  "outdoor-lighting",
+  "plants-trees-and-gardens",
+  "post/a-modern-cottage-landscape-design",
+  "post/a-new-outdoor-haven",
+  "post/can-landscape-design-help-with-drainage-and-erosion-control",
+  "post/can-landscaping-improve-energy-efficiency-for-my-home-or-business",
+  "post/designing-a-family-friendly-sanctuary",
+  "post/european-modern",
+  "post/from-blank-canvas-to-neighborhood-showstopper",
+  "post/how-can-i-create-privacy-in-my-backyard-with-landscaping",
+  "post/how-can-i-make-my-landscaping-more-pet-friendly",
+  "post/how-do-i-choose-the-right-plants-for-my-landscaping",
+  "post/how-does-artificial-turf-affect-property-value",
+  "post/how-far-does-an-outdoor-kitchen-need-to-be-from-the-house",
+  "post/how-long-does-a-landscaping-project-typically-take-to-complete",
+  "post/how-long-does-artificial-turf-last",
+  "post/how-to-choose-pet-friendly-artificial-turf-for-your-yard",
+  "post/how-to-design-landscaping-for-different-soil-types",
+  "post/how-to-install-artificial-turf",
+  "post/how-to-winterize-sprinklers-utah",
+  "post/landscape-design-cost-utah-county",
+  "post/retaining-walls-lehi-ut",
+  "post/the-artistry-behind-landscape-design",
+  "post/visualizing-the-future-exploring-our-3d-landscape-designs",
+  "post/what-are-some-eco-friendly-landscaping-practices-to-consider",
+  "post/what-are-some-plants-commonly-used-in-landscaping",
+  "post/what-are-the-best-landscaping-tips-for-small-yards",
+  "post/what-are-the-key-elements-of-good-landscaping-design",
+  "post/what-factors-should-i-consider-when-planning-a-landscaping-project",
+  "post/what-is-a-berm-in-landscaping",
+  "post/what-is-the-best-time-of-year-for-landscaping",
+  "post/what-is-the-difference-between-landscaping-and-hardscaping",
+  "post/xeriscaping-beautiful-and-great-for-the-environment",
+  "repairs-and-renovations",
+  "retaining-walls",
+  "services",
+  "trampoline-and-play-areas",
+  "water-and-fire-features",
+  "wood-features"
+ ],
+ "assets": 283
+}
